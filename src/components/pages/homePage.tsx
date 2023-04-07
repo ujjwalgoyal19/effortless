@@ -1,5 +1,7 @@
+import HomepageTemplate from "../templates/homepageTemplate";
+
 const HomePage = () => {
-  return <div>Sunstone</div>;
+  return <HomepageTemplate />;
 };
 
 export default HomePage;
